@@ -49,3 +49,8 @@ const App = () => {
 }
 
 export default App
+
+
+
+// "predeploy": "npm run build",
+  // "deploy": "gh-pages -d build"
