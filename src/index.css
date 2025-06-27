@@ -1,0 +1,17 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+@import "tailwindcss";
+
+
+/* 
+h1{
+    font-size: 70px;
+    font-weight: 600;
+    top: 50vh;
+    left: 50vw;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    text-decoration: underline;
+} */
